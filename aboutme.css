@@ -4,4 +4,7 @@ body {
     color: red;
     font-family: verdana;
   }
+  p{
+    border: 1px solid blue;
+  }
 }
