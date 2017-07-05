@@ -1,9 +1,7 @@
 body {
   background-color: powderblue;
   h1{
-    color: red;
-    font-family: verdana;
-    font-size: 300%;
+   text-align:center;
   }
   p{
     border: 1px solid blue;
