@@ -9,4 +9,8 @@ body {
   p{
     border: 1px solid blue;
   }
+  img.resize{
+    max-width:80%;
+    max-length:80%;
+  }
 }
