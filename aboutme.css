@@ -4,13 +4,11 @@ body {
     margin: 0;
     padding: 0;
   }
-  
+  li a {
+    display: block;
+} 
   background-image:url("PastelBackground.jpg")
   }
-
-li a {
-    display: block;
-}
   h1 {
    text-align: center;
   }
