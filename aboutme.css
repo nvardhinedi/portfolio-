@@ -1,4 +1,9 @@
 body {
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
   background-image:url("PastelBackground.jpg")
   }
   h1 {
@@ -15,10 +20,5 @@ body {
   }
   p{
     text-align: center;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+  
 }
