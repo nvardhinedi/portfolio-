@@ -8,9 +8,13 @@ body {
 }
 
   li{
-    display: inline;
-  
+    display: inline; 
   } 
+  
+  li a{
+  display: block;
+    width: 60px;
+  }
   background-image:url("PastelBackground.jpg")
   }
   h1 {
