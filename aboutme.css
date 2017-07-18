@@ -3,9 +3,14 @@ body {
     list-style-type: none;
     margin: 0;
     padding: 0;
-}
+  }
+  
   background-image:url("PastelBackground.jpg")
   }
+
+li a {
+    display: block;
+}
   h1 {
    text-align: center;
   }
@@ -22,3 +27,4 @@ body {
     text-align: center;
   
 }
+
