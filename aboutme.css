@@ -1,7 +1,7 @@
 body {
   background-image:url("PastelBackground.jpg")
 }
-  ul {
+  /*ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -9,7 +9,7 @@ body {
 
   li {
     display: inline;
-  }
+  }*/
   h1 {
    text-align: center;
   }
