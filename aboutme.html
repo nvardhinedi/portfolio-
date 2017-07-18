@@ -31,6 +31,20 @@
       <p>Reflection 7/18/17</p>
       <p>A list allows you to type a sequence of strings or variables, which are then given a unique index. It is helpful to use lists to store a sequence of variables and change them as needed. You can add another item in the list by using the append() funtion, you can order the items in the list, etc.</p>
       <p>I think that the partnership with Samiksha worked the best because we were having fun while trying to solve the problems that we encountered. We built off of each other's knowledge to achieve the end result.</p>
+      
+      <button>Change color</button>
+      <script>
+        var btn = document.querySelector('button');
+
+        function random(number) {
+        return Math.floor(Math.random()*(number+1));
+        }
+
+        btn.onclick = function() {
+        var rndCol = 'rgb(' + random(255) + ',' + random(255) + ',' + random(255) + ')';
+        document.body.style.backgroundColor = rndCol;
+        }
+      </script>
 </body>
 </html>
     
